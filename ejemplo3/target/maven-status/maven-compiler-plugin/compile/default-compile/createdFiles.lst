@@ -1,0 +1,7 @@
+com\Proyecto2\ejemplo2\Controller\Productocontroller.class
+com\Proyecto2\ejemplo2\Model\Producto.class
+com\Proyecto2\ejemplo2\ServletInitializer.class
+com\Proyecto2\ejemplo2\Service\ProductoService.class
+com\Proyecto2\ejemplo2\Ejemplo2Application.class
+com\Proyecto2\ejemplo2\repository\ProductoRepository.class
+com\Proyecto2\ejemplo2\Service\ProductoServiceImple.class
